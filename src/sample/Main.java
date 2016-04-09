@@ -54,7 +54,7 @@ public class Main extends Application {
         gc.fillArc(leftMargin + 10 * wide, topMargin + 2 * high, wide, high, 30, 270, ArcType.ROUND);
         gc.strokeOval(leftMargin + 10.5 * wide, topMargin + 2.15 * high, 8, 5);
     }
-
+ 
 
     public static void main(String[] args) {
         launch(args);
